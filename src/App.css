@@ -1,0 +1,23 @@
+.conteiner{
+    min-height: 100vh;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    gap:2em;
+    background-position: center center;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size:15px;
+    border-radius: 30px;
+    box-sizing: border-box;
+}
+
+.boton{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-weight: bolder;
+ font-size: 14;
+ border-radius: 50px;
+ box-sizing: border-box;
+}
